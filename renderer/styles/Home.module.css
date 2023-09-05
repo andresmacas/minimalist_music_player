@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+.lyrics {
+    height: 80vh;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+.albumCover {
+    height: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    gap: 15px;
+}
+
+.subInfo {
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.info {
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
